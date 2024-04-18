@@ -9,7 +9,7 @@ echo 'Apellido: ' . $apellido . '. Nombre: ' . $nombre ;
 echo '<br>';
 echo 'Nacio hace ' .$supuestaEdad. ' años';
 echo '<br>';
-echo $nombre . ' este es el nombre'
+echo $nombre . ' este es el nombre';
 
 
 
