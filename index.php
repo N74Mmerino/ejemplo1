@@ -12,5 +12,4 @@ echo '<br>';
 echo $nombre . ' este es el nombre';
 
 
-
     
